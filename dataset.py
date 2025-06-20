@@ -6,7 +6,7 @@ import torch
 from torch import nn
 import torch.nn.functional as F
 import torch.utils.data as data
-from tqdm.notebook import tqdm
+
 import matplotlib.pyplot as plt
 import time
 import albumentations as A
